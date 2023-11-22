@@ -1,4 +1,5 @@
-[![Header](https://github.com/Yahar4/yahar4/blob/main/assets/code.gif)]
+![Header](https://github.com/Yahar4/yahar4/blob/main/assets/code.gif)
+
 ### In development
 
 ### Hi, dear user 🖥️
