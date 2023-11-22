@@ -1,5 +1,8 @@
-### Hi, dear user 🖥️
+![Header](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 
+### In development
+
+### Hi, dear user 🖥️
 
 This is actually 1 big project of 3 small in it.
 #
@@ -15,5 +18,5 @@ your cameras by RTSP
 you can reomtely connect to a camera and scan QR-codes with it
 (main project)
 
-## Cllaborators
+## Collaborators
 Big thanks to @nontypeable
