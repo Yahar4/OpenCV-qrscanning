@@ -1,5 +1,4 @@
-![Header](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
-
+[![Header](https://github.com/Yahar4/yahar4/blob/main/assets/code.gif)]
 ### In development
 
 ### Hi, dear user 🖥️
